@@ -1,0 +1,54 @@
+C:\Users\James\Documents\Jimmy\WakeUp\WakeUp\WakeUpGui\bin\Debug\WakeUpGui.exe.config
+C:\Users\James\Documents\Jimmy\WakeUp\WakeUp\WakeUpGui\bin\Debug\WakeUpGui.exe
+C:\Users\James\Documents\Jimmy\WakeUp\WakeUp\WakeUpGui\bin\Debug\WakeUpGui.pdb
+C:\Users\James\Documents\Jimmy\WakeUp\WakeUp\WakeUpGui\obj\Debug\WakeUpGui.csprojResolveAssemblyReference.cache
+C:\Users\James\Documents\Jimmy\WakeUp\WakeUp\WakeUpGui\obj\Debug\WakeUpGui.Properties.Resources.resources
+C:\Users\James\Documents\Jimmy\WakeUp\WakeUp\WakeUpGui\obj\Debug\WakeUpGui.WakeUpForm.resources
+C:\Users\James\Documents\Jimmy\WakeUp\WakeUp\WakeUpGui\obj\Debug\WakeUpGui.csproj.GenerateResource.Cache
+C:\Users\James\Documents\Jimmy\WakeUp\WakeUp\WakeUpGui\obj\Debug\WakeUpGui.exe
+C:\Users\James\Documents\Jimmy\WakeUp\WakeUp\WakeUpGui\obj\Debug\WakeUpGui.pdb
+C:\Users\levellja\Downloads\WakeUp\WakeUpGui\bin\Debug\WakeUpGui.exe.config
+C:\Users\levellja\Downloads\WakeUp\WakeUpGui\bin\Debug\WakeUpGui.exe
+C:\Users\levellja\Downloads\WakeUp\WakeUpGui\bin\Debug\WakeUpGui.pdb
+C:\Users\levellja\Downloads\WakeUp\WakeUpGui\obj\Debug\WakeUpGui.Properties.Resources.resources
+C:\Users\levellja\Downloads\WakeUp\WakeUpGui\obj\Debug\WakeUpGui.WakeUpForm.resources
+C:\Users\levellja\Downloads\WakeUp\WakeUpGui\obj\Debug\WakeUpGui.csproj.GenerateResource.Cache
+C:\Users\levellja\Downloads\WakeUp\WakeUpGui\obj\Debug\WakeUpGui.exe
+C:\Users\levellja\Downloads\WakeUp\WakeUpGui\obj\Debug\WakeUpGui.pdb
+C:\Daten\Git\WakeUp\WakeUpGui\bin\Debug\WakeUpGui.exe.config
+C:\Daten\Git\WakeUp\WakeUpGui\bin\Debug\WakeUpGui.exe
+C:\Daten\Git\WakeUp\WakeUpGui\bin\Debug\WakeUpGui.pdb
+C:\Daten\Git\WakeUp\WakeUpGui\obj\Debug\WakeUpGui.Properties.Resources.resources
+C:\Daten\Git\WakeUp\WakeUpGui\obj\Debug\WakeUpGui.WakeUpForm.resources
+C:\Daten\Git\WakeUp\WakeUpGui\obj\Debug\WakeUpGui.csproj.GenerateResource.Cache
+C:\Daten\Git\WakeUp\WakeUpGui\obj\Debug\WakeUpGui.exe
+C:\Daten\Git\WakeUp\WakeUpGui\obj\Debug\WakeUpGui.pdb
+C:\Daten\Git\WakeUp\WakeUpGui\obj\Debug\WakeUpGui.csprojResolveAssemblyReference.cache
+C:\jimmy\WakeUp\WakeUpGui\bin\Debug\WakeUpGui.exe.config
+C:\jimmy\WakeUp\WakeUpGui\obj\Debug\WakeUpGui.exe
+C:\jimmy\WakeUp\WakeUpGui\obj\Debug\WakeUpGui.pdb
+C:\jimmy\WakeUp\WakeUpGui\bin\Debug\WakeUpGui.exe
+C:\jimmy\WakeUp\WakeUpGui\bin\Debug\WakeUpGui.pdb
+C:\jimmy\WakeUp\WakeUpGui\obj\Debug\WakeUpGui.Properties.Resources.resources
+C:\jimmy\WakeUp\WakeUpGui\obj\Debug\WakeUpGui.WakeUpForm.resources
+C:\jimmy\WakeUp\WakeUpGui\obj\Debug\WakeUpGui.csproj.GenerateResource.Cache
+C:\jimmy\WakeUp\WakeUpGui\obj\Debug\WakeUpGui.csprojResolveAssemblyReference.cache
+D:\temp\WakeUp\WakeUpGui\bin\Debug\WakeUpGui.exe.config
+D:\temp\WakeUp\WakeUpGui\obj\Debug\WakeUpGui.exe
+D:\temp\WakeUp\WakeUpGui\obj\Debug\WakeUpGui.pdb
+D:\temp\WakeUp\WakeUpGui\bin\Debug\WakeUpGui.exe
+D:\temp\WakeUp\WakeUpGui\bin\Debug\WakeUpGui.pdb
+D:\temp\WakeUp\WakeUpGui\obj\Debug\WakeUpGui.csprojResolveAssemblyReference.cache
+D:\temp\WakeUp\WakeUpGui\obj\Debug\WakeUpGui.Properties.Resources.resources
+D:\temp\WakeUp\WakeUpGui\obj\Debug\WakeUpGui.WakeUpForm.resources
+D:\temp\WakeUp\WakeUpGui\obj\Debug\WakeUpGui.csproj.GenerateResource.Cache
+C:\Users\levellja\OneDrive - SRG SSR\Git\WakeUp\WakeUpGui\bin\Debug\WakeUpGui.exe.config
+C:\Users\levellja\OneDrive - SRG SSR\Git\WakeUp\WakeUpGui\bin\Debug\WakeUpGui.exe
+C:\Users\levellja\OneDrive - SRG SSR\Git\WakeUp\WakeUpGui\bin\Debug\WakeUpGui.pdb
+C:\Users\levellja\OneDrive - SRG SSR\Git\WakeUp\WakeUpGui\obj\Debug\WakeUpGui.csprojResolveAssemblyReference.cache
+C:\Users\levellja\OneDrive - SRG SSR\Git\WakeUp\WakeUpGui\obj\Debug\WakeUpGui.Properties.Resources.resources
+C:\Users\levellja\OneDrive - SRG SSR\Git\WakeUp\WakeUpGui\obj\Debug\WakeUpGui.WakeUpForm.resources
+C:\Users\levellja\OneDrive - SRG SSR\Git\WakeUp\WakeUpGui\obj\Debug\WakeUpGui.csproj.GenerateResource.Cache
+C:\Users\levellja\OneDrive - SRG SSR\Git\WakeUp\WakeUpGui\obj\Debug\WakeUpGui.csproj.CoreCompileInputs.cache
+C:\Users\levellja\OneDrive - SRG SSR\Git\WakeUp\WakeUpGui\obj\Debug\WakeUpGui.exe
+C:\Users\levellja\OneDrive - SRG SSR\Git\WakeUp\WakeUpGui\obj\Debug\WakeUpGui.pdb

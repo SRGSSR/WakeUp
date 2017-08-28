@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WakeUpGui" GeneratedClassName="WakeupSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="url" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://gethelp.media.int/public/configuredProcesses.xml</Value>
+    </Setting>
+    <Setting Name="delayIntervallInMinutes" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="refreshInvervallInSeconds" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="configPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">%TEMP%\configuredProcesses.xml</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
